@@ -1,4 +1,10 @@
+
+# This is a test comment
 # Prompt user for weather input
+weather = input("What's the weather like today? (sunny/rainy/cold): ")
+# ... (rest of your code) ...
+# 
+Prompt user for weather input
 weather = input("What's the weather like today? (sunny/rainy/cold): ")
 
 # Convert input to lowercase to handle case-insensitivity (e.g., "Sunny" vs "sunny")
